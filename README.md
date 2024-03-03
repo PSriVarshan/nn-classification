@@ -148,7 +148,6 @@ customers_1[['Gender',
                                                                  'Spending_Score']])
 ```
 
-```
 
 ```py
 customers_1.dtypes
